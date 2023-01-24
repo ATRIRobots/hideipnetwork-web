@@ -8,7 +8,7 @@ const BAREURL = 'https://hide.atrirobots.top'
 */
 self.__uv$config = {
     prefix: `/server/`,
-    bare: `${BAREURL}/hide.atrirobots.top/`,
+    bare: `${BAREURL}/https://hide.atrirobots.top/`,
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/server/server.handler.js',
