@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://hideip.atrirobots.top'
+const BAREURL = 'https://hide.atrirobots.top'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
