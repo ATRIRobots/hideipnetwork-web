@@ -2,7 +2,7 @@
  * MIRROR_URL: you need a custom url
  * BAN_REGION: The country or region you want to prohibit access to
  */
-const MIRROR_URL = 'github.com';
+const MIRROR_URL = 'https://github.com/ATRIRobots/hideipnetwork-web';
 const BAN_REGION = ['IN', 'KP'];
 /**
  * @param {Promise} handleRequest
